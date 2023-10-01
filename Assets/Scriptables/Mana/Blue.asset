@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35590386461648d9989c3916a42707b9, type: 3}
+  m_Name: Blue
+  m_EditorClassIdentifier: 
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 77e33f184e4063444b4a7d13b615dc0f, type: 3}
+  <Type>k__BackingField: 2
+  <InactiveColor>k__BackingField: {r: 0.13082945, g: 0.30403647, b: 0.4245283, a: 1}
+  <ActiveColor>k__BackingField: {r: 0.25157225, g: 0.66320765, b: 1, a: 1}
